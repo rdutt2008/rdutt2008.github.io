@@ -1,5 +1,6 @@
 # Hi, I'm Rahul 👋
 11th grade @ Levine Middle College | Dual enrolled @ NCSSM & CPCC
+
 Researcher @ UNC Charlotte (Physics Dept) | USACO Bronze | Hackathon Winner
 
 ## 🔬 Current Work
