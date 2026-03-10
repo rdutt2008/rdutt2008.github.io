@@ -10,4 +10,4 @@ Researcher @ UNC Charlotte (Physics Dept) | USACO Bronze | Hackathon Winner
 [links to pinned repos]
 
 ## 🛠 Skills
-Python | TensorFlow | Java | JavaScript | R | Django | PyQt5
+Python | TensorFlow | Java | JavaScript | R | Django |
