@@ -4,8 +4,6 @@
 Dual-enrolled at NC School of Science & Math + Central Piedmont Community College
 
 [![Email](https://img.shields.io/badge/Email-1rahuldutt%40gmail.com-blue?style=flat&logo=gmail)](mailto:1rahuldutt@gmail.com)
-[![USACO Bronze](https://img.shields.io/badge/USACO-Bronze%20(100%25)-gold?style=flat)](https://usaco.org)
-[![Hackathon](https://img.shields.io/badge/UNC%20Charlotte%20Hackathon-1st%20Place%202025-brightgreen?style=flat)](https://charlotte.edu)
 
 ---
 
